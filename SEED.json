@@ -1,0 +1,189 @@
+{
+    "tasks": [
+        {
+            "type": "hidden_code",
+            "title": "#4 What is Airdrop?",
+            "content": "Airdrop"
+        },
+        {
+            "type": "hidden_code",
+            "title": "#5 Coin vs Token",
+            "content": "Tokens"
+        },
+        {
+            "type": "hidden_code",
+            "title": "#14 Pump and Dump",
+            "content": "Marketmaker"
+        },
+        {
+            "type": "hidden_code",
+            "title": "#3 Hot vs Cold Wallet",
+            "content": "Wallet"
+        },
+        {
+            "type": "hidden_code",
+            "title": "#6 What is TON?",
+            "content": "Ton"
+        },
+        {
+            "type": "hidden_code",
+            "title": "#7 News affecting BTC price",
+            "content": "BTCtothemoon"
+        },
+        {
+            "type": "hidden_code",
+            "title": "#8 On-chain vs Off-chain",
+            "content": "Transaction"
+        },
+        {
+            "type": "hidden_code",
+            "title": "#9 CEX vs DEX",
+            "content": "OKXEED"
+        },
+        {
+            "type": "hidden_code",
+            "title": "#10 Bullish and Bearish",
+            "content": "Bullrun"
+        },
+        {
+            "type": "hidden_code",
+            "title": "#11 Pre-market Explained",
+            "content": "BRESEED"
+        },
+        {
+            "type": "hidden_code",
+            "title": "#12 What is NFT?",
+            "content": "GETGEMS"
+        },
+        {
+            "type": "hidden_code",
+            "title": "#13 SEED NFT Introduction",
+            "content": "BIRDIE"
+        },
+        {
+            "type": "hidden_code",
+            "title": "#15 What is Tokenomics?",
+            "content": "SEEDNOMICS"
+        },
+        {
+            "type": "wallet",
+            "title": "Connect OKX TON Wallet",
+            "content": null
+        },
+        {
+            "type": "tryapp",
+            "title": "Try OKX Mini Wallet",
+            "content": null
+        },
+        {
+            "type": "joinchannel",
+            "title": "Join OKX Giveaways Channel",
+            "content": null
+        },
+        {
+            "type": "nocheck",
+            "title": "Mint NFT Using OKX Wallet",
+            "content": null
+        },
+        {
+            "type": "joinchannel",
+            "title": "Join Solcat channel",
+            "content": null
+        },
+        {
+            "type": "tryapp",
+            "title": "Play Tokyo Beast Love Drop",
+            "content": null
+        },
+        {
+            "type": "tryapp",
+            "title": "Play Dropee and win daily",
+            "content": null
+        },
+        {
+            "type": "tryapp",
+            "title": "Play W-Coin",
+            "content": null
+        },
+        {
+            "type": "subcribe",
+            "title": "Subscribe TON channels",
+            "content": null
+        },
+        {
+            "type": "justclick",
+            "title": "Invite 3 friends",
+            "content": null
+        },
+        {
+            "type": "followX",
+            "title": "Retweet SEED news",
+            "content": null
+        },
+        {
+            "type": "followX",
+            "title": "Follow SEED Combinator",
+            "content": null
+        },
+        {
+            "type": "youtubeSubscribe",
+            "title": "Subscribe to be a SEED Pro",
+            "content": null
+        },
+        {
+            "type": "daily",
+            "title": "Login Bonus",
+            "content": null
+        },
+        {
+            "type": "addname",
+            "title": "Add \"\ud83c\udf31SEED\" to your name (Restart the app to check)",
+            "content": null
+        },
+        {
+            "type": "followX",
+            "title": "Vote Happy Cat on KuCoin for a surprise reward!",
+            "content": null
+        },
+        {
+            "type": "tryapp",
+            "title": "Play FOX earn TON",
+            "content": null
+        },
+        {
+            "type": "invite",
+            "title": "Refer a friend",
+            "content": null
+        },
+        {
+            "type": "invite",
+            "title": "Refer 3 friends",
+            "content": null
+        },
+        {
+            "type": "invite",
+            "title": "Refer 10 friends",
+            "content": null
+        },
+        {
+            "type": "invite",
+            "title": "Refer 20 friends",
+            "content": null
+        },
+        {
+            "type": "checkin",
+            "title": "Complete checkin twice",
+            "content": null
+        },
+        {
+            "type": "checkin",
+            "title": "Complete checkin 5 times",
+            "content": null
+        },
+        {
+            "type": "likex",
+            "title": "Like and retweet a post",
+            "content": null
+        }
+    ]
+}
