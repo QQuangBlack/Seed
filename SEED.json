@@ -81,6 +81,30 @@
         },
         {
             "url": null,
+            "type": "hidden_code",
+            "title": "#16 BTC Price Prediction",
+            "content": "200kBTC"
+        },
+        {
+            "url": null,
+            "type": "hidden_code",
+            "title": "#17 What is Listing?",
+            "content": "SEEDTOKEN"
+        },
+        {
+            "url": null,
+            "type": "hidden_code",
+            "title": "#18 What Affects Token Price?",
+            "content": "POSINEGATIVE"
+        },
+        {
+            "url": null,
+            "type": "hidden_code",
+            "title": "#19 What is Market Maker?",
+            "content": "Wavemaker"
+        },
+        {
+            "url": null,
             "type": "wallet",
             "title": "Connect OKX TON Wallet",
             "content": null
