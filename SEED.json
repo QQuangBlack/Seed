@@ -105,6 +105,18 @@
         },
         {
             "url": null,
+            "type": "hidden_code",
+            "title": "#20 What is Rug Pull?",
+            "content": "ANTIRUGPULL"
+        },
+        {
+            "url": null,
+            "type": "hidden_code",
+            "title": "#21 How to spot a Rug Pull?",
+            "content": "NOHANDSNORUG"
+        },
+        {
+            "url": null,
             "type": "wallet",
             "title": "Connect OKX TON Wallet",
             "content": null
