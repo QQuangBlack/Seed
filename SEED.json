@@ -117,6 +117,18 @@
         },
         {
             "url": null,
+            "type": "hidden_code",
+            "title": "#22 Fat Finger Error",
+            "content": "WRONGFINGER"
+        },
+        {
+            "url": null,
+            "type": "hidden_code",
+            "title": "#23 Crypto Slang Part 1",
+            "content": "MOONINGWITHSEED"
+        },
+        {
+            "url": null,
             "type": "wallet",
             "title": "Connect OKX TON Wallet",
             "content": null
