@@ -129,6 +129,36 @@
         },
         {
             "url": null,
+            "type": "hidden_code",
+            "title": "#24 Crypto Slang Part 2",
+            "content": "WHEREURLAMBO"
+        },
+        {
+            "url": null,
+            "type": "hidden_code",
+            "title": "#25 What are KYC & AML",
+            "content": "SECUREURSEED"
+        },
+        {
+            "url": null,
+            "type": "hidden_code",
+            "title": "#26 Protect your Crypto",
+            "content": "SAFEANDSOUND"
+        },
+        {
+            "url": null,
+            "type": "hidden_code",
+            "title": "#27 Crypto Slang Part 3",
+            "content": "ALPHASEED"
+        },
+        {
+            "url": null,
+            "type": "hidden_code",
+            "title": "#28 Crypto Slang Part 4",
+            "content": "AMABUTDYOR"
+        },
+        {
+            "url": null,
             "type": "wallet",
             "title": "Connect OKX TON Wallet",
             "content": null
@@ -257,6 +287,24 @@
             "url": null,
             "type": "checkin",
             "title": "Complete checkin twice",
+            "content": null
+        },
+        {
+            "url": null,
+            "type": "checkin",
+            "title": "Follow Benefactor X",
+            "content": null
+        },
+        {
+            "url": null,
+            "type": "checkin",
+            "title": "Join Aagent",
+            "content": null
+        },
+        {
+            "url": null,
+            "type": "checkin",
+            "title": "Follow Aagent",
             "content": null
         },
         {
